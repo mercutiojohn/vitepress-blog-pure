@@ -15,10 +15,10 @@
     "devDependencies": {
         "@types/fs-extra": "^11.0.4",
         "@types/node": "^26.1.2",
-        "@typescript-eslint/eslint-plugin": "^8.65.0",
-        "@typescript-eslint/parser": "^8.65.0",
-        "@typescript-eslint/types": "^8.65.0",
-        "@vue/compiler-sfc": "^3.5.40",
+        "@typescript-eslint/eslint-plugin": "^8.66.0",
+        "@typescript-eslint/parser": "^8.66.0",
+        "@typescript-eslint/types": "^8.66.0",
+        "@vue/compiler-sfc": "^3.5.41",
         "cross-env": "^10.1.0",
         "esbuild": "^0.28.1",
         "eslint": "^10.8.0",
@@ -31,7 +31,7 @@
         "prettier": "^3.9.6",
         "typescript": "^6.0.3",
         "vitepress": "^1.6.4",
-        "vite": "^8.1.5",
+        "vite": "^8.2.0",
         "vitepress-plugin-comment-with-giscus": "^1.1.15"
     }
 }
